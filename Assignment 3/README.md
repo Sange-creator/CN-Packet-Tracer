@@ -4,7 +4,7 @@ Task Involved
 
 WIRESHARK
 Objective: 
--Capturing DHCP packets to analyze how devices on your network obtain IP addresses.
+-Capturing DHCP packets to analyze how devices on our network obtain IP addresses.
 
 1. Initial setup
 -Opening Wireshark and selecting the correct network interface.
