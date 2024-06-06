@@ -1,4 +1,3 @@
-# CN-Packet-Tracer
 CN Lab Projects / Assignments
 
 The project involves configuring and assigning all the devices with their IP addresses and connecting them with a switch. 
