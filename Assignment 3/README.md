@@ -1,6 +1,6 @@
 Task Involved
-- Simulating DHPC server on packet tracer
-- Tracking the DHPC packets on your local network using WIRESHARK
+- Simulating DHCP server on packet tracer
+- Tracking the DHCP packets on your local network using WIRESHARK
 
 WIRESHARK
 Objective: 
